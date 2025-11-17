@@ -5,7 +5,7 @@ metadata:
 
 spec:
   containers:
-  - name: nginx
+  - name: nginxpod
     image: nginx
     resources:
       limits:
