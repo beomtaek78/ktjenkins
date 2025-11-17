@@ -1,7 +1,7 @@
 apiVersion: v1
 kind: Pod
 metadata:
-  name: webhooktestpod2
+  name: webhook-testpod2
 
 spec:
   containers:
